@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+  </PropertyGroup>
+	<ItemGroup>
+		<PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="7.3.1" />
+	</ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Core\Cards.Core.csproj" />
+  </ItemGroup>
+
+</Project>

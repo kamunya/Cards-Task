@@ -1,0 +1,32 @@
+[
+  {
+    "Name": "Netanel",
+    "Description": "Green",
+    "Color": "#00FF00",
+    "Status": "To do"
+  },
+  {
+    "Name": "Netanel",
+    "Description": "Blue",
+    "Color": "#0000FF",
+    "Status": "To do"
+  },
+  {
+    "Name": "Netanel",
+    "Description": "Yellow",
+    "Color": "#FFFF00",
+    "Status": "To do"
+  },
+  {
+    "Name": "Chana",
+    "Description": "Red",
+    "Color": "#FF0000",
+    "Status": "To do"
+  },
+  {
+    "Name": "Chana",
+    "Description": "Green",
+    "Color": "#00FF00",
+    "Status": "To do"
+  }
+]
